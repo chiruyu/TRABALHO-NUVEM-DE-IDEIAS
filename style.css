@@ -1,0 +1,325 @@
+body{
+background-color: rgb(26, 26, 83);
+
+
+
+
+
+}
+.p6{
+    margin-top: 4%;
+    text-align: center;
+    font-size: 230%;
+    color: rgb(93, 241, 56);
+   border-style:inset;
+border-width: 4px;
+background-color: rgb(218, 161, 57);
+margin-right: 75%;
+padding-top: 1%;
+padding-bottom: 1%;
+
+margin-bottom: 2%;
+} 
+.p9{
+    margin-top: 4%;
+    text-align: center;
+    font-size: 230%;
+    color: rgb(238, 223, 9);
+   border-style:inset;
+border-width: 4px;
+background-color: rgb(132, 57, 218);
+padding-right: 50px;
+padding-top: 1%;
+padding-bottom: 1%;
+margin-left: 0%;
+margin-bottom: 2%;
+} 
+.p8{
+    margin-top: 4%;
+    text-align: center;
+    font-size: 230%;
+    color: rgb(68, 25, 255);
+   border-style:inset;
+border-width: 4px;
+background-color: rgb(218, 161, 57);
+margin-right: 75%;
+padding-top: 1%;
+padding-bottom: 1%;
+
+margin-bottom: 2%;
+}
+.p7{
+    margin-top: 4%;
+    text-align: center;
+    font-size: 230%;
+    color: rgba(91, 0, 209, 0.815);
+   border-style:inset;
+border-width: 5px;
+background-color: rgb(0, 255, 179);
+padding-left: 16px;
+padding-top: 1%;
+padding-right: 18px;
+padding-bottom: 1%;
+margin-left: 60%;
+margin-bottom: 2%;
+} 
+.p1{
+        margin-top: 4%;
+        text-align: center;
+        font-size: 230%;
+        color: rgb(9, 238, 238);
+       border-style:inset;
+    border-width: 4px;
+    background-color: rgb(73, 57, 218);
+    padding-right: 50px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 0%;
+    margin-bottom: 2%;
+    } 
+
+.p3{
+
+    font-size: 300%;
+    color: antiquewhite;
+    margin-left: 70%;
+    
+    background-color: rgba(0, 0, 0, 0.418);
+ padding-left: 7%;
+margin-top: 2%;
+border-width: 2px;
+border-style: ridge;
+border-color: darkgrey;
+}
+.p4{
+    margin-right: 60%;
+margin-left: 15%;
+    text-align: center;
+    font-size: 305%;
+    margin-top: 2%;
+    border-width: 3px;
+    border-style:outset;
+    border-color: black;
+    background-color:rgb(126, 252, 0);
+    color:rgb(241, 158, 48);
+padding-right: 4px;
+}
+
+
+.p5{
+    color:darkmagenta;
+    margin-right: 15%;
+    margin-left: 60%;
+background-color:rgb(255, 20, 145);
+    text-align: center;
+    font-size: 300%;
+   margin-top: 2%;
+    border-width: 3px;
+    border-style:outset;
+    border-color: black;
+
+
+}
+
+
+@media screen and (max-width: 1000px) {
+    body {
+      background-color: rgb(212, 44, 108);
+    }
+    .p6{
+        margin-top: 4%;
+        text-align: center;
+        font-size: 180%;
+        color: rgb(93, 241, 56);
+       border-style:inset;
+    border-width: 4px;
+    background-color: rgb(218, 161, 57);
+    margin-right: 75%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 230px;
+    margin-bottom: 2%;
+    }  
+    .p7{
+        margin-top: 4%;
+        text-align: center;
+        font-size: 180%;
+        color: rgb(241, 56, 56);
+       border-style:inset;
+    border-width: 4px;
+    background-color: rgb(218, 161, 57);
+    margin-right: 75%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 230px;
+    margin-bottom: 2%;
+    margin-left: 50%;
+    }  
+    .p8{
+        margin-top: 4%;
+        text-align: center;
+        font-size: 180%;
+        color: rgb(241, 56, 56);
+       border-style:inset;
+    border-width: 4px;
+    background-color: rgb(157, 255, 0);
+    margin-right: 75%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 130px;
+    margin-bottom: 2%;
+    margin-left: 28%;
+    
+    }  
+   .p1 {
+    font-size: 200%;
+    border-width: 2px;
+margin-top: 6%;
+margin-left: 0 auto;
+color:rgb(243, 185, 99)
+   }
+   .p5{
+    color:darkmagenta;
+  
+    margin-left: 60%;
+background-color:rgb(61, 92, 233);
+    text-align: center;
+    font-size: 230%;
+   margin-top: 2%;
+    border-width: 3px;
+    margin-top: 10%;
+    padding-right: 237px;
+}  
+.p4{
+    margin-right: 60%;
+margin-left: 15%;
+    text-align: center;
+    font-size: 250%;
+    margin-top: 6%;
+   padding-right: 269px;
+    border-width: 3px;
+    border-style:outset;
+    border-color: black;
+    background-color:rgb(247, 52, 38);
+    color:rgb(0, 0, 0);
+}
+.p3{
+
+    font-size: 200%;
+    color: antiquewhite;
+    margin-left: 70%;
+    margin-right: 2%;
+    background-color: rgba(204, 30, 30, 0.418);
+ padding-right: 80px;
+padding-left: 17px;
+border-width: 2px;
+border-style: ridge;
+border-color: rgb(180, 46, 46);
+
+
+
+
+}
+ }
+
+
+
+@media screen and (max-width: 600px) {
+    body {
+      background-color: rgb(46, 158, 18);
+    }
+    .p1{
+        margin-left: 2%;
+        margin-top: 7%;
+        font-size: 100%;
+        border-width: 2px;
+padding-right: 100px;
+    color:rgb(108, 240, 47);
+    background-color: rgb(226, 59, 231);
+    }
+    .p6{
+        margin-top: 4%;
+        text-align: center;
+        font-size: 80%;
+        color: rgb(84, 221, 221);
+       border-style:inset;
+    border-width: 4px;
+    background-color: darkcyan;
+    margin-right: 75%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 100px;
+    margin-bottom: 10%;
+    }    
+    .p3{
+        font-size: 100%;
+        color: antiquewhite;
+        margin-left: 70%;
+        
+        background-color: rgba(0, 0, 0, 0.418);
+     padding-right: 100px;
+margin-right: 100%;
+    margin-top: 15%;
+    border-width: 2px;
+    border-style: ridge;
+    border-color: rgb(219, 34, 136);
+    color: darkgoldenrod;
+    }
+    .p4{
+        margin-right: 60%;
+margin-left: 15%;
+    text-align: center;
+    font-size: 100%;
+    margin-top: 17%;
+    padding-right: 100px;
+    border-width: 3px;
+    border-style:outset;
+    border-color: black;
+    background-color:rgb(215, 248, 69);
+    color:rgb(9, 250, 117);
+    }
+    .p5{   color:darkmagenta;
+        margin-right: 15%;
+        margin-left: 60%;
+    background-color:rgb(61, 92, 233);
+        text-align: center;
+        font-size: 100%;
+       margin-top: 19%;
+        border-width: 3px;
+padding-right: 100px;
+margin-bottom: 10%;
+    
+
+}
+.p7{
+    margin-top: 4%;
+    text-align: center;
+    font-size: 80%;
+    color: rgb(63, 88, 201);
+   border-style:inset;
+border-width: 4px;
+background-color: rgb(226, 119, 20);
+margin-right: 75%;
+padding-top: 1%;
+padding-bottom: 1%;
+padding-right: 100px;
+margin-left: 50%;
+margin-bottom: 10%;
+}    
+.p8{
+margin-top: 25%;
+    margin-top: 4%;
+    text-align: center;
+    font-size: 80%;
+    color: rgb(255, 0, 0);
+   border-style:inset;
+border-width: 4px;
+background-color: rgb(221, 233, 47);
+margin-right: 75%;
+padding-top: 1%;
+padding-bottom: 1%;
+padding-right: 60px;
+margin-left: 30%;
+} 
+    }
+
